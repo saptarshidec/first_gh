@@ -1,2 +1,2 @@
-# first_gh
-Learning github and git.
+### first_gh
+Learning github and git
